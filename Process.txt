@@ -1,0 +1,6 @@
+1. Setup the virtualenv
+2. Setup github
+3. Write code
+4. Test code locally
+5. Commit-push github
+6. Deploy to Heroku
